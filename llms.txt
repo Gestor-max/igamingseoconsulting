@@ -24,6 +24,6 @@
 ## Pages
 
 - [Home / services](https://igamingseoconsulting.pages.dev/): services, experience, speaking, about, FAQ and contact
-- [Forex SEO Services](https://igamingseoconsulting.pages.dev/forex-seo-services/): SEO for forex brokers, prop firms, trading platforms and IB/affiliate sites
-- [SaaS SEO Services](https://igamingseoconsulting.pages.dev/saas-seo-services/): product-led SEO for B2B SaaS — bottom-funnel keywords, programmatic SEO, attribution
-- [Dating SEO Services](https://igamingseoconsulting.pages.dev/dating-seo-services/): SEO for dating sites, apps and CPA/pay-per-lead affiliates — mainstream and adult dating SERPs
+- [Forex SEO Services](https://igamingseoconsulting.pages.dev/services/forex-seo-services/): SEO for forex brokers, prop firms, trading platforms and IB/affiliate sites
+- [SaaS SEO Services](https://igamingseoconsulting.pages.dev/services/saas-seo-services/): product-led SEO for B2B SaaS — bottom-funnel keywords, programmatic SEO, attribution
+- [Dating SEO Services](https://igamingseoconsulting.pages.dev/services/dating-seo-services/): SEO for dating sites, apps and CPA/pay-per-lead affiliates — mainstream and adult dating SERPs
