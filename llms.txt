@@ -27,3 +27,6 @@
 - [Forex SEO Services](https://igamingseoconsulting.pages.dev/services/forex-seo-services/): SEO for forex brokers, prop firms, trading platforms and IB/affiliate sites
 - [SaaS SEO Services](https://igamingseoconsulting.pages.dev/services/saas-seo-services/): product-led SEO for B2B SaaS — bottom-funnel keywords, programmatic SEO, attribution
 - [Dating SEO Services](https://igamingseoconsulting.pages.dev/services/dating-seo-services/): SEO for dating sites, apps and CPA/pay-per-lead affiliates — mainstream and adult dating SERPs
+- [Financial Services SEO Marketing](https://igamingseoconsulting.pages.dev/services/financial-services-seo-marketing/): YMYL SEO for financial services companies
+- [Financial Advisor SEO](https://igamingseoconsulting.pages.dev/services/seo-financial-advisors/): SEO for financial advisors and wealth managers
+- [Blog](https://igamingseoconsulting.pages.dev/blog/): articles on YMYL SEO, E-E-A-T trust signals, GEO/AEO and AI search optimization
