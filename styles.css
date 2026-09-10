@@ -241,6 +241,27 @@ body {
   color: var(--muted);
 }
 
+/* FAQ */
+.faq-list { max-width: 780px; }
+
+.faq-list details {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 24px;
+  margin-bottom: 14px;
+}
+
+.faq-list summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.02rem;
+}
+
+.faq-list details[open] summary { color: var(--accent); }
+
+.faq-list details p { color: var(--muted); margin-top: 12px; font-size: 0.95rem; }
+
 /* Contact */
 .contact { text-align: center; }
 

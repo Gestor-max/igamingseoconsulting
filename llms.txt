@@ -1,0 +1,26 @@
+# iGaming SEO Consulting — Nestor Vazquez
+
+> SEO consulting for iGaming operators, affiliate networks and media groups.
+> 15+ years of experience in iGaming and affiliate SEO in highly competitive markets across USA, Europe and LATAM.
+
+## Services
+
+- iGaming Affiliate SEO — casino, sports betting and poker affiliate portfolios
+- Technical SEO audits — crawlability, indexation, architecture, Core Web Vitals, migrations, domain consolidation
+- PBN and tiered linkbuilding — footprint management, hosting separation, anchor and link-velocity risk controls
+- Parasite SEO and expired domains — controlled, documented experiments; winners get scaled
+- CTR and user-signal optimisation — organic CTR, SERP presentation, behavioural signals
+- SEO training and recovery — team training (SEO, content, dev), negative SEO detection and recovery, SEO automation (Python, Apps Script, AI)
+
+## Key facts
+
+- Consultant: Nestor Vazquez, iGaming SEO consultant with 15+ years across USA, Europe and LATAM
+- Specialisation: iGaming and affiliate SEO in highly competitive markets; also covers forex/finance (YMYL)
+- Previous engagements: GG Group Media (Poland affiliate portfolio, 2024–2026), iGaming.com (Germany, 2023–2026)
+- Speaker: SiGMA (Mexico City, Rome), MEGA (Lima, Mexico City), SEO Rockstars (Dallas)
+- Contact: vazquezconsultor@gmail.com · +52 961 264 5760 · https://www.linkedin.com/in/nestorvazquez/
+- Location: Mexico, working across European time zones
+
+## Pages
+
+- [Home / services](https://igamingseoconsulting.pages.dev/): services, experience, speaking, about, FAQ and contact
