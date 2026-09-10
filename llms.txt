@@ -24,3 +24,5 @@
 ## Pages
 
 - [Home / services](https://igamingseoconsulting.pages.dev/): services, experience, speaking, about, FAQ and contact
+- [Forex SEO Services](https://igamingseoconsulting.pages.dev/forex-seo-services/): SEO for forex brokers, prop firms, trading platforms and IB/affiliate sites
+- [SaaS SEO Services](https://igamingseoconsulting.pages.dev/saas-seo-services/): product-led SEO for B2B SaaS — bottom-funnel keywords, programmatic SEO, attribution

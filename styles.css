@@ -241,6 +241,34 @@ body {
   color: var(--muted);
 }
 
+/* Industry service links */
+.industry-services { margin-top: 56px; }
+
+.industry-services > h3 {
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-size: 0.85rem;
+  margin-bottom: 20px;
+}
+
+.card-link {
+  display: inline-block;
+  margin-top: 14px;
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.card-link:hover { text-decoration: underline; }
+
+.back-link { margin-top: 28px; }
+.back-link a { color: var(--muted); text-decoration: none; }
+.back-link a:hover { color: var(--text); }
+
+.site-footer a { color: var(--muted); text-decoration: none; }
+.site-footer a:hover { color: var(--text); }
+
 /* FAQ */
 .faq-list { max-width: 780px; }
 
